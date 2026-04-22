@@ -12,7 +12,6 @@ function Hero() {
         sequence={[
           "I build backends that don't break.",  2000,
           "I architect APIs from scratch.",       2000,
-          "I turn coffee into clean code.",       2000,
           "Full-stack. Always learning.",         2000,
         ]}
         wrapper="h2"
